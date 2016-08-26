@@ -9,5 +9,7 @@ public class HelloJenkins {
 	}
 	public void Enhancement(){
 	}
+	public void Enhancement1(){
+	}
 
 }
