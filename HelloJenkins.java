@@ -24,4 +24,8 @@ public class HelloJenkins {
 		System.out.println("Issue 17 is resolved");
 >>>>>>> issue17
 	}
+
+	public void NewFeature(){
+		System.out.println("New Feature Added");
+	}
 }
