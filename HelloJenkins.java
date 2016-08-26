@@ -9,11 +9,9 @@ public class HelloJenkins {
 	}
 	public void Enhancement(){
 	}
-<<<<<<< HEAD
 	public void Enhancement1(){
-=======
+	}
 	public void defect1(){
->>>>>>> master
 	}
 
 }
