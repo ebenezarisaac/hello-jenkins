@@ -7,5 +7,7 @@ public class HelloJenkins {
 		System.out.println("---------------------------------------------------");
 		System.out.println("Github is polling Jenkins");
 	}
+	public void Enhancement(){
+	}
 
 }
