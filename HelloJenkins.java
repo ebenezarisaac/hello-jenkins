@@ -25,7 +25,12 @@ public class HelloJenkins {
 >>>>>>> issue17
 	}
 
+<<<<<<< HEAD
 	public void NewFeature(){
 		System.out.println("New Feature Added");
+=======
+	public void ProductionIssue(){
+		System.out.println("Prod issue is fixed");
+>>>>>>> productionissue
 	}
 }
