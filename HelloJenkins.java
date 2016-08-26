@@ -7,5 +7,11 @@ public class HelloJenkins {
 		System.out.println("---------------------------------------------------");
 		System.out.println("Github is polling Jenkins");
 	}
+<<<<<<< HEAD
 	
+=======
+	Public void DevMethod(){
+		System.out.println("Method added in Dev branch");
+	}
+>>>>>>> development
 }
