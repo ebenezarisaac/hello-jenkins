@@ -14,8 +14,14 @@ public class HelloJenkins {
 		System.out.println("Method added in Dev branch");
 	}
 >>>>>>> development
+<<<<<<< HEAD
 	
 	public void hotfix(){
 		System.out.println("Made a Hotfix");
+=======
+
+	public void Issue17(){
+		System.out.println("Issue 17 is resolved");
+>>>>>>> issue17
 	}
 }
