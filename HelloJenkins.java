@@ -7,30 +7,5 @@ public class HelloJenkins {
 		System.out.println("---------------------------------------------------");
 		System.out.println("Github is polling Jenkins");
 	}
-<<<<<<< HEAD
-	
-=======
-	Public void DevMethod(){
-		System.out.println("Method added in Dev branch");
-	}
->>>>>>> development
-<<<<<<< HEAD
-	
-	public void hotfix(){
-		System.out.println("Made a Hotfix");
-=======
 
-	public void Issue17(){
-		System.out.println("Issue 17 is resolved");
->>>>>>> issue17
-	}
-
-<<<<<<< HEAD
-	public void NewFeature(){
-		System.out.println("New Feature Added");
-=======
-	public void ProductionIssue(){
-		System.out.println("Prod issue is fixed");
->>>>>>> productionissue
-	}
 }
