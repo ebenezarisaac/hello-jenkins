@@ -14,4 +14,8 @@ public class HelloJenkins {
 		System.out.println("Method added in Dev branch");
 	}
 >>>>>>> development
+	
+	public void hotfix(){
+		System.out.println("Made a Hotfix");
+	}
 }
